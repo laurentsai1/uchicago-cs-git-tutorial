@@ -1,2 +1,2 @@
-Lauren Tsai
+Lauren Tsai laurentsai
 # uchicago-cs-git-tutorial
